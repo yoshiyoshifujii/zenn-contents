@@ -10,7 +10,7 @@ published: false
 って出るのなんでーってなったときは、
 
 ```shell
-$ brew services start mysql
+brew services start mysql
 ```
 
 すればいける。
@@ -20,5 +20,5 @@ $ brew services start mysql
 って出るのなんでーってなったときは、 `localhost` って指定してるところを、 `127.0.0.1` とかにしたらいける。
 
 ```shell
-$ mysql -u root -p -P 13306 -h 127.0.0.1
+mysql -u root -p -P 13306 -h 127.0.0.1
 ```
