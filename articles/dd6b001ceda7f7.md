@@ -3,7 +3,7 @@ title: "macosにbrewでインストールしたmysqlクライアントを使う�
 emoji: "🖥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["mysql", "mac"]
-published: false
+published: true
 ---
 # ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
 
